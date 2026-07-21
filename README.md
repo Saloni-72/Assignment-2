@@ -1,2 +1,3 @@
 # Assignment-2
-Used Python Libraries
+-Python Libraries: Matplot, Pandas 
+-Solve 3 questions
